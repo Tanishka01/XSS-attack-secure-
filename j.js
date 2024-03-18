@@ -65,7 +65,7 @@ function formSubmitHandler(event) {
   renderMessages();
 }
 function navigateToPage1() {
-  window.location.href = 'http://127.0.0.1:5501/xss.html';
+  window.location.href = 'https://tanishka01.github.io/XSS-attack-vulnerable-/xss.html';
 }
 
 userMessageForm.addEventListener('submit', formSubmitHandler);
